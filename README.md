@@ -91,6 +91,18 @@ Here are some of the DAX formulas used in the report to show a few:
 ### Gross Profit YTD & PYTD | Month
 ![3](https://github.com/user-attachments/assets/aee864cb-9cc3-451c-a10f-0c6449449877)
 
+## Tools And Technologies
+- **Power BI**: Used for data visualization and analysis.
+- **Excel/CSV**: Data source for Sales metrics.
+
+## Conclusion
+The Plant Co. Gross Profit Performance 2023 report offers a comprehensive analysis of the company's financial health, focusing on gross profit trends across multiple dimensions such as products, regions, and time periods. The key insights from the report show that while the company achieved a total year-to-date gross profit of $5.15M, it experienced a slight decline compared to the prior year, with a YTD vs PYTD variance of -$265.29K.
+
+The treemap visualization of the Bottom 10 Countries and Account Profitability Segmentation identified underperforming regions and accounts, offering clear opportunities for targeted improvements. The Gross Profit Trends analysis over months for various product types, along with the Waterfall Chart, provided granular insights into monthly fluctuations, highlighting months with significant profit increases or decreases.
+
+By segmenting profitability and visualizing GP% and Gross Profit, stakeholders can easily identify which products, regions, and accounts contribute the most to overall profitability, allowing for more strategic decision-making. With detailed KPIs and DAX formulas supporting dynamic calculations, this Power BI report enables real-time performance monitoring, empowering management to take proactive measures to improve financial outcomes.
+
+Overall, this report equips Plant Co.'s leadership with the critical insights needed to refine product strategies, improve profitability across regions, and foster sustainable financial growth.
 
 
 
