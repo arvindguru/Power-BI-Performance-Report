@@ -91,11 +91,6 @@ Here are some of the DAX formulas used in the report to show a few:
 ### Gross Profit YTD & PYTD | Month
 ![3](https://github.com/user-attachments/assets/aee864cb-9cc3-451c-a10f-0c6449449877)
 
-## How to Use
-- Download the .pbix file from this repository.
-- Open the file using Power BI Desktop.
-- Explore the dashboard using slicers and interactive visuals.
-- Use filters to drill down into specific data points, such as product categories or regions.
 
 
 
